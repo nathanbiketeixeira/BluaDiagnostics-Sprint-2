@@ -12,4 +12,4 @@ Vídeo:
 https://youtube.com/seu-video
 
 Relatório:
-https://github.com/seu-usuario/blua-diagnostics/docs/relatorio_final.md
+https://docs.google.com/document/d/1V43SxDwXiSkkw20c-UG782OW2oqzM_5xKhy-skgSeEw/edit?usp=sharing
