@@ -1,0 +1,20 @@
+[
+  {
+    "pergunta": "Estou com dor no peito",
+    "resposta": "Encaminhamento imediato",
+    "agentes": ["supervisor", "triagem"],
+    "tools": [],
+    "documentos_rag": ["protocolo_respiratorio.txt"],
+    "avaliacao": "adequada",
+    "score": 10
+  },
+  {
+    "pergunta": "Posso tomar ibuprofeno com losartana?",
+    "resposta": "Possível interação moderada",
+    "agentes": ["supervisor", "prescricao"],
+    "tools": ["verificar_interacoes_medicamentosas"],
+    "documentos_rag": ["bula_losartana.txt"],
+    "avaliacao": "adequada",
+    "score": 9
+  }
+]
