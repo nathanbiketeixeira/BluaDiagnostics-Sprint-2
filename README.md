@@ -2,12 +2,6 @@
 
 Sistema de IA conversacional para transformar o aplicativo Blua da Care Plus em uma plataforma de cuidado remoto proativo.
 
-## Integrantes
-
-- Nathan Teixeira — RM XXXXX
-- Integrante 2 — RM XXXXX
-- Integrante 3 — RM XXXXX
-
 ## Persona Escolhida
 
 ### Beneficiário Final em Autoavaliação
