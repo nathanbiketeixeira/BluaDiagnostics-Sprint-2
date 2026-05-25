@@ -6,7 +6,7 @@
 - Cauã Ceolin Camargo - RM567328
 
 GitHub:
-https://github.com/seu-usuario/blua-diagnostics
+https://github.com/nathanbiketeixeira/BluaDiagnostics-Sprint-2/blob/7a51a5926b2289821c3a59b1c5e64d741e6feff5/entrega.txt
 
 Vídeo:
 https://youtube.com/seu-video
