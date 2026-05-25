@@ -98,4 +98,4 @@ O fluxo completo está documentado em `docs/arquitetura.md`.
 
 ## Link do Repositório
 
-https://github.com/seu-usuario/blua-diagnostics
+https://github.com/nathanbiketeixeira/BluaDiagnostics-Sprint-2/blob/469daa54e63a3c4ba8d0fe753c9fda59c1f37c47/README.md
