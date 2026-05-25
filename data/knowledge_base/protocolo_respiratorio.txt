@@ -1,0 +1,14 @@
+Protocolo respiratório simplificado.
+
+Sintomas:
+- Tosse
+- Febre
+- Falta de ar
+
+Sinais de alerta:
+- Saturação abaixo de 92%
+- Cianose
+- Confusão mental
+
+Conduta:
+Orientar atendimento imediato em casos graves.
