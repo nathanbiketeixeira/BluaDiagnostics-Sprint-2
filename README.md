@@ -9,6 +9,13 @@ Sistema de IA conversacional da Care Plus com:
 - Interface Streamlit
 - Avaliação automatizada
 
+## Integrantes
+
+- Nathan de Mello Teixeira - RM567429
+- Pietro Visconti Bueno de Mello - RM567673
+- Victor Puglia Neves - RM567854
+- Cauã Ceolin Camargo - RM567328
+
 ## Arquitetura
 
 A solução utiliza:
